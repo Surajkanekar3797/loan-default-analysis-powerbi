@@ -1,4 +1,4 @@
-#💰 Loan Default Analysis Dashboard (Power BI)
+## 💰 Loan Default Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
 
